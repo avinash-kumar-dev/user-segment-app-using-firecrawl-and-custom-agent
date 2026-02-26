@@ -26,7 +26,7 @@ _max_identical_queries = 3  # Warn after 3 identical queries
 # ============================================================================
 
 FIRECRAWL_API_KEY = "fc-3b076c020ac74c818afe09842b460bba"
-GEMINI_API_KEY = "AIzaSyC-_ef8P9bFtbec3RNRyYisyNQ2eALV4EE"
+GEMINI_API_KEY = 
 
 firecrawl = FirecrawlApp(api_key=FIRECRAWL_API_KEY)
 
